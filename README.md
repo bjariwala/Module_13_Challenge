@@ -1,4 +1,4 @@
-# Module_13_Challenge
+# Binary Classification Model Using Deep Neural Network.
 This Model helps evaluate whether applicants will be successful if funded by Alphabet Soup.
 By using knowledge with machine learning and neural networks, and decide to use the features in the provided dataset to create a binary classifier model that will predict whether an applicant will become a successful business.
 
